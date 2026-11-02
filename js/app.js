@@ -278,4 +278,3 @@ if (inputSearch) {
 }
 
 // Inisialisasi: Panggil Data Pertama Kali
-loadMahasiswa();
